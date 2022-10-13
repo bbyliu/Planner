@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hc+1zmqse9LtKUH2SqeDI/cwEC+TESKZqveBP5C683iWB/ADgu22+dM8mIhtVj0MseQke3IOML0vlgGyQhn80A==",
+  "success": true,
+  "projectFilePath": "/Users/liuliu/Projects/Planner/Planner/Planner.csproj",
+  "expectedPackageFiles": [
+    "/Users/liuliu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/liuliu/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/liuliu/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
